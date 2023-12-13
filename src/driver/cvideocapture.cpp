@@ -1,0 +1,2 @@
+#include "cvideocapture.h"
+
